@@ -1,0 +1,1 @@
+# start.openmage.org
